@@ -16,7 +16,7 @@ The responses are split into:
 ## 📊 Visualization: Stacked 100% Bar Chart  
 Each bar represents a region, segmented to show the fraction of people selecting each response.
 
-🔗 **[View this viz on Tableau Public →]([https://public.tableau.com/app/profile/yourname/viz/Day1-Fractions-SelfDrivingSafety](https://public.tableau.com/views/Globalviewsaboutthesafetyofridinginaself-drivingcarbyregions2021/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+🔗 **[View this viz on Tableau Public →](https://public.tableau.com/views/Globalviewsaboutthesafetyofridinginaself-drivingcarbyregions2021/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/yourname/viz/Day1-Fractions-SelfDrivingSafety">
