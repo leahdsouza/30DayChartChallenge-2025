@@ -20,15 +20,14 @@ Each bar represents a region, segmented to show the fraction of people selecting
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/yourname/viz/Day1-Fractions-SelfDrivingSafety">
-    <img src="../screenshots/day1.png" alt="Day 1 Tableau Viz" width="600"/>
+    <img src="day1.png" alt="Day 1: Fractions (Tableau Viz)" width="600"/>
   </a>
 </p>
 ---
 
 ## 📁 Files Included
-- `dataset.csv` – Raw data on self-driving car safety opinions
-- `viz.twbx` – Tableau workbook for the visualization
-- `screenshot.png` – Static preview of the chart
+- `global-views-safety-self-driving-car-by-demographic-group.csv` – Raw data on self-driving car safety opinions
+- `day1.png` – Static preview of the chart
 
 ---
 
@@ -38,6 +37,4 @@ Each bar represents a region, segmented to show the fraction of people selecting
 - GitHub for documentation
 
 ---
-
-_See the full challenge progress in the main repo → [30DayChartChallenge-2025](../README.md)_
 
