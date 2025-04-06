@@ -4,7 +4,7 @@ This repository contains my Tableau visualizations and datasets for the 30DayCha
 
 ---
 
-![30DayChartChallenge Thumbnail](thumbnail.png)
+![30DayChartChallenge Thumbnail](/img/prompts.png)
 
 > ✨ You can find the original challenge and prompt list here:  
 > 👉 [30DayChartChallenge/Edition2025 on GitHub](https://github.com/30DayChartChallenge/Edition2025)
