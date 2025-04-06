@@ -36,6 +36,3 @@ Each bar represents a region, segmented to show the fraction of people selecting
 - Tableau Public
 - Pew Research Center dataset (2021)
 - GitHub for documentation
-
----
-
