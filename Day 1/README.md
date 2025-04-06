@@ -23,6 +23,7 @@ Each bar represents a region, segmented to show the fraction of people selecting
     <img src="day1.png" alt="Day 1: Fractions (Tableau Viz)" width="600"/>
   </a>
 </p>
+
 ---
 
 ## 📁 Files Included
